@@ -1,0 +1,30 @@
+{
+  "name": "array-cimy-01",
+  "version": "1.0.1",
+  "description": "exemplo EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CimyJr/App_Heroku/tree/main/Array_And_%20Methods"
+  },
+  "keywords": [
+    "express",
+    "ejs",
+    "static",
+    "files"
+  ],
+  "author": "Carlos Hairon",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
